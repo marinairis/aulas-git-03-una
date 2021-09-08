@@ -1,0 +1,8 @@
+// Ignorar um arquivo
+
+*.jar
+*.xml
+
+//Ignorar uma pasta
+
+/node_modules/
